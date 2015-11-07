@@ -1,0 +1,11 @@
+Revision: 4fca889dabd66821ee286ccd041e33c2f5813b41
+Patch-set: 2
+File: drivers/misc/mediatek/gpu/ged/Makefile
+
+18
+Sat Nov 07 00:17:18 2015 +0000
+Author: Tom Cherry <1064128@85c56323-6fa9-3386-8a01-6480fb634889>
+UUID: b69d1e72_70c02950
+Bytes: 47
+Would be nice to get rid of this whitespace too
+
